@@ -1,0 +1,65 @@
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+# load in the data
+df = pd.read_csv('./edited_imdb.csv')
+
+# create a tf-idf vectorizer object
+# remove stopwords automatically
+tfidf = TfidfVectorizer(max_features=2000)
+
+# create a data matrix from the overviews
+X = tfidf.fit_transform(df['Tags'])
+
+# create a series mapping movie titles to indices
+movie2idx = pd.Series(df.index, index=df['Name'])
+
+# create a function that generates recommendations
+def recommend(item):
+
+  # check if the item is a new user-inputted movie or not
+  if item in movie2idx:
+    # get the row in the dataframe for this movie
+    idx = movie2idx[item]
+  else:
+    # create a dataframe for the new item with its tags
+    new_df = pd.DataFrame({"Name": [item], "Tags": [input("Please enter the tags for the new item: ")]})
+    # append the new item to the existing dataframe
+    df_new = df.append(new_df, ignore_index=True)
+    # update the data matrix X with the new item's tags
+    X_new = tfidf.fit_transform(df_new['Tags'])
+    # update the movie2idx series with the new item's index
+    movie2idx = pd.Series(df_new.index, index=df_new['Name'])
+    # get the row in the dataframe for this new item
+    idx = movie2idx[item]
+
+  # calculate the pairwise similarities for this item
+  query = X[idx]
+  scores = cosine_similarity(query, X)
+
+  # currently the array is 1 x N, make it just a 1-D array
+  scores = scores.flatten()
+
+  # update scores for movies/items with "romance" tag
+  for i, tag in enumerate(df['Tags']):
+    if "romance" in tag.lower():
+      scores[i] = 0
+
+  # get the indexes of the highest scoring movies/items
+  # get the first K recommendations
+  # don't return itself!
+  recommended_idx = (-scores).argsort()[1:6]
+
+  # return the titles of the recommendations
+  return df['Name'].iloc[recommended_idx]
+
+# prompt the user to enter a movie or item
+item = input("Please enter a movie or item: ")
+
+# generate recommendations for the inputted movie or item
+recommended_movies = recommend(item)
+
+# print the recommended movies
+print("\nRecommended movies/items for", item + ":")
+print(recommended_movies)

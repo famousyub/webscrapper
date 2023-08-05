@@ -1,0 +1,219 @@
+﻿Web Development
+HTML
+CSS
+React
+Angular
+Vue.js
+Node.js
+NodeJS
+vuejs
+Django
+Flask
+Ruby on Rails
+Ruby
+ASP.NET
+jQuery
+Bootstrap
+Webpack
+Mobile Development
+iOS
+Android
+React Native
+Flutter
+Xamarin
+Database Management
+MySQL
+PostgresSQL
+postgres
+Oracle
+SQL Server
+MongoDB
+Redis
+Cassandra
+Cloud Computing
+Amazon Web Services (AWS)
+Microsoft Azure
+Google Cloud Platform (GCP)
+Docker
+Kubernetes
+Data Analysis
+Data Mining
+Data Warehousing
+Data Visualization
+Machine Learning
+Deep Learning
+Natural Language Processing (NLP)
+Big Data
+Hadoop
+Spark
+Networking
+TCP/IP
+DNS
+HTTP
+SSL
+Firewalls
+Load Balancers
+Cisco
+Juniper
+F5
+Microsoft Office
+Microsoft Project
+Product development
+Quality
+Research
+Six Sigma GreenBelt
+Solid Works
+Visio
+Prioritization
+Personnel management
+Critical thinking skills
+Team management
+Analyst
+consulting
+cost analysis
+Critical thinking
+Designing
+Dialysis
+direction
+IIa
+ISO
+Leadership
+Microsoft Office
+Microsoft Project
+Personnel management
+design process
+Product development
+product management
+Quality
+researching
+Research
+sales
+Solid Works
+Penetration Testing
+Vulnerability Assessment
+Identity and Access Management (IAM)
+Encryption
+Firewalls
+Intrusion Detection and Prevention (IDS/IPS)
+Security Information and Event Management (SIEM)
+Compliance and Auditing
+Project Management
+Agile
+Scrum
+Kanban
+Waterfall
+JIRA
+Asana
+Trello
+Microsoft Project
+Gantt Charts
+
+ Programming
+
+Java
+Python
+C++
+JavaScript
+SQL
+Ruby
+PHP
+Swift
+ Web Development
+
+HTML
+CSS
+JavaScript
+jQuery
+React
+Angular
+Node.js
+Bootstrap
+ Cloud Computing
+
+Amazon Web Services (AWS)
+Microsoft Azure
+Google Cloud Platform (GCP)
+OpenStack
+Docker
+Kubernetes
+Infrastructure as Code (IaC)
+ Database Management
+
+Oracle
+Microsoft SQL Server
+MySQL
+PostgreSQL
+MongoDB
+Data Modeling
+SQL Optimization
+ Cybersecurity
+
+Network Security
+Encryption
+Identity and Access Management (IAM)
+Penetration Testing
+Threat Detection and Response
+Security Information and Event Management (SIEM)
+Data Analysis and Visualization
+Data Mining
+Data Warehousing
+Data Cleansing
+Business Intelligence (BI)
+Data Visualization Tools (e.g. Tableau, Power BI)
+Statistics
+Machine Learning
+Artificial Intelligence and Machine Learning
+Machine Learning
+NLP
+Natural Language Processing (NLP)
+Computer Vision
+Deep Learning
+Reinforcement Learning
+Neural Networks
+Decision Trees
+UI/UX Design
+Adobe Photoshop
+Adobe Illustrator
+Sketch
+Figma
+InVision
+Zeplin
+User Research
+Usability Testing
+Technical Writing and Documentation
+Technical Writing
+Documentation Management
+API Documentation
+User Guides
+Online Help
+Content Management Systems (CMS)
+Project Management
+Agile Project Management
+Waterfall Project Management
+Project Planning
+Risk Management
+Project Budgeting
+Project Scheduling
+Problem-solving and Critical Thinking
+Logical Thinking
+Creative Thinking
+Analytical Thinking
+Problem Identification
+Problem Analysis
+Solution Design
+Solution Implementation
+Testing and Debugging
+Communication and Collaboration
+Verbal Communication
+Written Communication
+Presentation 
+Active Listening
+Teamwork
+Collaboration Tools (e.g. Slack, Microsoft Teams, Zoom)
+Leadership and Management
+Team Management
+Performance Management
+Coaching and Mentoring
+Conflict Resolution
+Decision Making
+Strategic Planning

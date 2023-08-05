@@ -1,0 +1,36 @@
+Python
+Java
+JavaScript
+C#
+C++
+PHP
+Ruby
+Swift
+Objective-C
+Kotlin
+Scala
+Rust
+Go
+Perl
+SQL
+Shell Scripting
+Web Development
+HTML
+CSS
+React
+Angular
+Vue.js
+Node.js
+Django
+Flask
+Ruby on Rails
+ASP.NET
+jQuery
+Bootstrap
+Webpack
+Mobile Development
+iOS
+Android
+React Native
+Flutter
+Xamarin

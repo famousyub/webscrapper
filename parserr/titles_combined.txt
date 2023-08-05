@@ -1,0 +1,103 @@
+job_titles
+Software Developer
+Web Developer
+Mobile Application Developer
+Systems Analyst
+Database Administrator
+Network Administrator
+Information Security Analyst
+Data Scientist
+Cloud Solutions Architect
+IT Manager
+Project Manager
+Business Analyst
+UI/UX Designer
+QA Engineer
+Technical Writer
+DevOps Engineer
+IT Support Specialist
+Computer Systems Engineer
+Computer Systems Analyst
+Artificial Intelligence/Machine Learning Engineer
+Big Data Analyst
+Blockchain Developer
+Cybersecurity Analyst
+Data Engineer
+Full Stack Developer
+Game Developer
+Hardware Engineer
+IT Consultant
+IT Auditor
+IT Trainer
+Mobile Device Management Administrator
+Product Manager
+Scrum Master
+Software Engineer
+System Administrator
+Technical Support Engineer
+User Researcher
+Art Director, Digital
+Chief Technology Officer (CTO)
+Cloud Administrator
+Cloud Consultant
+Cloud Engineer
+Content Strategist
+Creative Technologist
+Customer Success Manager
+Data Analyst
+Data Architect
+Data Governance Manager
+Data Management Analyst
+Data Modeler
+Data Visualization Specialist
+Desktop Support Technician
+Digital Marketing Manager
+Director of Information Security
+Director of Information Technology
+E-commerce Developer
+Enterprise Architect
+Front End Developer
+Geographic Information Systems (GIS) Analyst
+Hardware Support Specialist
+Help Desk Technician
+Information Security Officer
+IT Business Analyst
+IT Coordinator
+IT Director
+IT Security Consultant
+IT Security Manager
+IT Service Delivery Manager
+IT Specialist
+IT Support Analyst
+IT Systems Administrator
+Java Developer
+Junior Developer
+Network Engineer
+Online Community Manager
+Product Owner
+Programmer
+Project Coordinator
+Quality Assurance Analyst
+React Developer
+Search Engine Optimization (SEO) Specialist
+Senior Developer
+Software Architect
+Software Development Manager
+Software Quality Assurance (QA) Analyst
+Solutions Architect
+SQL Developer
+Systems Engineer
+Technical Account Manager
+Technical Program Manager
+Technical Sales Representative
+Technical Solutions Engineer
+Technical Support Specialist
+User Experience (UX) Researcher
+Web Analytics Developer
+Web Content Manager
+Web Designer
+Web Editor
+Web Producer
+Webmaster
+SENIOR ENGINEERING MANAGER
+
